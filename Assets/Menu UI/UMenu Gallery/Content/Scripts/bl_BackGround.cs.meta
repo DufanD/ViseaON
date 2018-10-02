@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a4f94849e998a364da9fb7bf1afc349f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BackGround_1: {instanceID: 0}
+  - BackGround_2: {instanceID: 0}
+  - LoopAnim: {instanceID: 0}
+  - PlayerGallery: {instanceID: 0}
+  - PlaySprite: {fileID: 21300000, guid: 782d26c8ff285d148b4fd132e4972545, type: 3}
+  - PauseSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

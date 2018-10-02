@@ -1,0 +1,30 @@
+Release v1.01
+- Menambah Player
+- Menambah Gaze
+
+Release v1.02
+- Menambah button Start and Settings
+
+Release v1.03
+- Menambah Assets Pulau
+
+Release v1.04
+- Menambah Laut, Sky, Start and Setting button
+
+Release v1.05
+- Menambah Sound settings
+- Menambah Daylight and Twilight Mode 
+- Menambah backsound untuk button and environtment
+
+Release v1.06
+- Fixed Sound settings
+
+Release v1.07
+- Menambah Batu, Pohon Kelapa
+
+Release v1.08
+- Menambah Splash Screen dan Warning Board
+
+Release v1.09
+- Menambah Bench, Payung, Meja, Kursi lifeguard, Toko, Tong Sampah, Kerang
+- Menambah Ruang Ganti, Ember, Toilet, Gazebo, Kastil Pasir, Bola, Dinding
