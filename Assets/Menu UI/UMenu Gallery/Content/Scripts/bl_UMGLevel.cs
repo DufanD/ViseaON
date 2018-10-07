@@ -1,14 +1,20 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
-public class bl_UMGLevel : MonoBehaviour {
+public class bl_UMGLevel : MonoBehaviour
+{
 
     public string LevelName = "Level";
     public Text NameText = null;
     public Image PreviewImage = null;
     public Image LockImage;
     public bool Unlock = true;
+    public GameObject myText;
+
+
+    double time = 5.0;
     /// <summary>
     /// Level(XP,Kills,Point,etc...) needed for unlock this level
     /// </summary>
@@ -19,40 +25,60 @@ public class bl_UMGLevel : MonoBehaviour {
     public bool isSelect = false;
     //Private
     private Color DefaultColor;
-   
+
 
     void Start()
     {
         DefaultColor = PreviewImage.color;
+        myText.SetActive(false);
+
     }
+
+   
 
     /// <summary>
     /// 
     /// </summary>
+
     public void Select()
     {
-        if (!Unlock)//if not unlocked, not can select
-            return;
+        if (!Unlock)
+        {
+
+            if (time > 0)
+            {
+                myText.SetActive(true);
+                myText.GetComponent<Text>().text = "TERKUNCI";
+            }
+ 
+            //myText.SetActive(False);
+        }//if not unlocked, not can select
+ 
 
         isSelect = !isSelect;
         if (isSelect)
         {
             PreviewImage.color = SelectColor;
-            bl_UMGManager.instance.DelectAllOther(LevelName);
+           // bl_UMGManager.instance.DelectAllOther(LevelName);
         }
         else
         {
             PreviewImage.color = DefaultColor;
         }
     }
+    public void MENU_ACTION_GotoPage(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
+        PlayerPrefs.SetString("LevelName",LevelName);
 
+    }
     /// <summary>
     /// 
     /// </summary>
     /// <param name="Lname"></param>
     /// <param name="preview"></param>
     /// <param name="LNeeded"></param>
-    public void GetInfo(string Lname, Sprite preview,int LNeeded)
+    public void GetInfo(string Lname, Sprite preview, int LNeeded)
     {
         this.LevelName = Lname;
         PreviewImage.sprite = preview;

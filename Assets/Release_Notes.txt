@@ -28,3 +28,17 @@ Release v1.08
 Release v1.09
 - Menambah Bench, Payung, Meja, Kursi lifeguard, Toko, Tong Sampah, Kerang
 - Menambah Ruang Ganti, Ember, Toilet, Gazebo, Kastil Pasir, Bola, Dinding
+
+Release v1.10
+- Menambah Plugin Screen
+
+Release v1.11
+- Menambah Destination Option
+- Menambah Destination Loading Screen
+
+Release v1.12
+- Menambah Boat
+
+Release v1.13
+- Menambah animasi Boat
+- Menambah transisi Start

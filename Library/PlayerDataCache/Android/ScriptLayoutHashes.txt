@@ -3,7 +3,10 @@ PlayerPath?
 E:/Projek Unity/Visea--ON/ViseaON/ViseaON.apk
 SceneListBegin?
 Assets/Scene/SplashScene.unity
+Assets/Scene/PlugIntoVRBox.unity
 Assets/main.unity
+Assets/Scene/info.unity
+Assets/Scene/ex.unity
 SceneListEnd?
 90c2ec7174376e741f9a1aca7a405252 Assembly-UnityScript-firstpass.dll:.ThirdPersonCamera
 f07c9bd1a7f9c1b970d0e5c25bffe94d Assembly-UnityScript-firstpass.dll:.DepthOfField34
@@ -25,9 +28,9 @@ c7dd12c15208b0447e101f80038706df UnityEngine.Timeline.dll:UnityEngine.Timeline.A
 0ddb2c46096a1e59e0dce07886ce4769 UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 0ddb2c46096a1e59e0dce07886ce4769 UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 64f3a13c1277a7f1324321d93d0ec13b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
-48fbffe8562c208f07d4601437c9572f Assembly-CSharp.dll:.MulaiYa
 51c7f2da0e648ac14d16777ffbf26e8e Assembly-CSharp-firstpass.dll:.ImageEffectBase
 dd686ab5d3e23d4856deabcd322a98d4 Assembly-CSharp.dll:.ClickSound
+1a0f8dea6f191cb1f265ccb270658130 Assembly-CSharp.dll:.Transition
 df03e2ffa8b3251f71a6c2235d50c66b Assembly-UnityScript-firstpass.dll:.Fisheye
 f6637497451c9a030c421de4a1ad5cdb Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
 b5ac0551c03ebb6ff6aed13d4150ee02 Assembly-UnityScript-firstpass.dll:.ThirdPersonController
@@ -36,6 +39,7 @@ b5ac0551c03ebb6ff6aed13d4150ee02 Assembly-UnityScript-firstpass.dll:.ThirdPerson
 b14b4630cc47b6e9ea8a644551a6a8cc Unity.TextMeshPro.dll:TMPro.TMP_Text
 d3d9615b44cd5b633076923f0a55deb3 Assembly-CSharp.dll:.bl_UMGWindow
 778cb95379caaca2823048673ed4485a Assembly-CSharp.dll:.GvrVideoPlayerTexture
+a1e5605df5fc312cd7fcda41144723ea Assembly-CSharp.dll:.MouseLook
 9c47fa8b5750d9efc2d7b2f04a1f70ea Assembly-UnityScript-firstpass.dll:.CameraMotionBlur
 53cefe5d98cadefbab750835e70b89c0 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 486cd95c82d8305219c352c06b776e1f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
@@ -108,6 +112,7 @@ e90403eeda069970e0b9de1533de13a6 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 16da51d1b62ef6d4ee1849350434023b UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 06d43e2c8df35a1f711270993073ed03 Assembly-UnityScript-firstpass.dll:.SmoothFollow
 24a57e6b1bd1739bc8d9cf1cbf67a532 Assembly-CSharp-firstpass.dll:.NoiseEffect
+928a8377d0aee80c33d0734d096f9528 Assembly-CSharp.dll:.ActivedObject
 bca4ec2bd152883757c7c7fbeb7ec506 Assembly-CSharp.dll:.CubePapak
 dc6a8859049493b718ef6ac6f115c2b5 Assembly-CSharp.dll:.GvrArmModel
 ae41c6f0c3ee6f475e70e7aef8f72e68 Assembly-CSharp.dll:.GvrAudioRoom
@@ -173,8 +178,9 @@ b469754591021bbc7cc9dc7d54f53bae Assembly-UnityScript-firstpass.dll:.EdgeDetectE
 1dd092c3943d3d700065292677e536df Assembly-CSharp.dll:.TimerCountdown
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 d64efa09a8a6c3afc461b1fbaa14c0cd Assembly-UnityScript-firstpass.dll:.DragRigidbody
-d62ba0ac2c7b03a3ca3327d309a65f1a Assembly-CSharp.dll:.bl_UMGLevel
+81741375899dd4a8b3ef266438ec6e39 Assembly-CSharp.dll:.bl_UMGLevel
 aff6f42589301fb2188ebc9e62508e1b Assembly-CSharp.dll:.GvrAllEventsTrigger
+de1e59fe629b921edac993665618f975 Assembly-CSharp.dll:.loadData
 6ad1f6a83810a6eca9ac72ee4f47808b Assembly-UnityScript-firstpass.dll:.PlatformInputController
 b66f5b029ce56d4232498c8a84cdb230 Assembly-CSharp.dll:.GvrAudioListener
 270aa0d65af04cc3abeb8bf6cd935316 Assembly-CSharp.dll:.bl_UMGOptions
