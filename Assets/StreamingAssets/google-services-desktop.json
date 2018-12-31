@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740937271138",
+    "firebase_url": "https://viseaon-db.firebaseio.com",
+    "project_id": "viseaon-db",
+    "storage_bucket": "viseaon-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740937271138:android:07edc7ca0f2e4be6",
+        "android_client_info": {
+          "package_name": "com.vnom.viseaon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740937271138-72e84oq1du3lr2omob9a5ru30ap307dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnom.viseaon",
+            "certificate_hash": "f72afea75f0f404c79cef7d9fd3440b1612b4a67"
+          }
+        },
+        {
+          "client_id": "740937271138-o9aqtgbnltq21oeed4b636lcestnhghu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTp9In6GSPHysokNLG0xuJSr7llCqEYAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740937271138-m7sp2mf1mk72t0unfhqpl5fmn4ukhlnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
