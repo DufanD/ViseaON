@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 6fc5507ee69e7af418c65a74d84ac374
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dorsal1
+    100002: Dorsal1End
+    100004: //RootNode
+    100006: fish05_pocketbutterfly_Mesh
+    100008: Head
+    100010: HeadEnd
+    100012: Hips
+    100014: PectoralLeft
+    100016: PectoralLeftEnd
+    100018: PectoralRight
+    100020: PectoralRightEnd
+    100022: Pelvic1A
+    100024: Pelvic1B
+    100026: Pelvic1End
+    100028: Pelvic2
+    100030: Pelvic2End
+    100032: Spine
+    100034: Spine1
+    100036: Spine2
+    100038: Tail
+    100040: Tail1
+    100042: Tail1End
+    100044: TailBottom
+    100046: TailBottomEnd
+    100048: TailTop
+    100050: TailTopEnd
+    400000: Dorsal1
+    400002: Dorsal1End
+    400004: //RootNode
+    400006: fish05_pocketbutterfly_Mesh
+    400008: Head
+    400010: HeadEnd
+    400012: Hips
+    400014: PectoralLeft
+    400016: PectoralLeftEnd
+    400018: PectoralRight
+    400020: PectoralRightEnd
+    400022: Pelvic1A
+    400024: Pelvic1B
+    400026: Pelvic1End
+    400028: Pelvic2
+    400030: Pelvic2End
+    400032: Spine
+    400034: Spine1
+    400036: Spine2
+    400038: Tail
+    400040: Tail1
+    400042: Tail1End
+    400044: TailBottom
+    400046: TailBottomEnd
+    400048: TailTop
+    400050: TailTopEnd
+    4300000: fish05_pocketbutterfly_Mesh
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: fish05_pocketbutterfly_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish05
+    second: {fileID: 2100000, guid: c926b41f1d70b9d469fd29d00aaefaeb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
