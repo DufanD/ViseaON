@@ -1,0 +1,106 @@
+Release v1.01
+- Menambah Player
+- Menambah Gaze
+
+Release v1.02
+- Menambah button Start and Settings
+
+Release v1.03
+- Menambah Assets Pulau
+
+Release v1.04
+- Menambah Laut, Sky, Start and Setting button
+
+Release v1.05
+- Menambah Sound settings
+- Menambah Daylight and Twilight Mode 
+- Menambah backsound untuk button and environtment
+
+Release v1.06
+- Fixed Sound settings
+
+Release v1.07
+- Menambah Batu, Pohon Kelapa
+
+Release v1.08
+- Menambah Splash Screen dan Warning Board
+
+Release v1.09
+- Menambah Bench, Payung, Meja, Kursi lifeguard, Toko, Tong Sampah, Kerang
+- Menambah Ruang Ganti, Ember, Toilet, Gazebo, Kastil Pasir, Bola, Dinding
+
+Release v1.10
+- Menambah Plugin Screen
+
+Release v1.11
+- Menambah Destination Option
+- Menambah Destination Loading Screen
+
+Release v1.12
+- Menambah Boat
+
+Release v1.13
+- Menambah animasi Boat
+- Menambah transisi Start
+
+Release v1.14
+- Menambah Screen Tutorial Training
+- Menambah Screen Tutorial Penggunaan
+
+Release v1.15
+- Fixed Destination Option
+- Fixed Loading Screen
+
+Release v1.16
+- Menambah Loading Exit
+
+Release v1.17
+- Menambah Environment Bawah Laut
+
+Release v1.18
+- Menambah Gelembung Model
+- Menambah Gelembung Animasi
+
+Release v1.19
+- Menambah Lighting
+- Manmbah Backsound Bawah Laut
+
+Release v1.20
+- Menambah Flora Model
+- Menambah Flora Animation
+
+Release v1.21
+- Menambah Terrain Dasar Laut
+- Menambah Player Move + Swim
+
+Release v1.22
+- Menambah Mode VR dan Normal
+- Manmbah Buying Screen
+
+Release v1.23
+- Menambah Fauna Model
+- Menambah Fauna Animasi
+
+Release v1.24
+- Fixing Login Screen
+- Fixing Warna Air dan Papan Exit
+
+Relesae v1.25
+- Gamification Waktu Penyelaman
+- Gamification Unlock Destinasi
+
+Release v1.26
+- Menambah asset Shop Environment
+- Gamification Buying in Shop
+
+Release v1.27
+- Menambah Info Panel
+- Gamification Klik Info
+- Gamification Finding Trash
+
+Release v1.28
+- Menambah Guide Assistant Model
+- Menambah Guide Assistant Speech
+
+Release v1.29
+- Menambah Panel Finding Trash

@@ -1,0 +1,2 @@
+web id : 740937271138-o9aqtgbnltq21oeed4b636lcestnhghu.apps.googleusercontent.com
+db : https://viseaon-db.firebaseio.com/
