@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/PraDive/SplashScene.unity
+    guid: 2e618c217f646fc40a4ad2a0980e323f
+  - enabled: 1
+    path: Assets/Scene/SignInSample/login.unity
+    guid: 307b9fdd44325364bbf18e29e38c4aaa
+  - enabled: 1
+    path: Assets/Scene/ModeOption/ModeOption.unity
+    guid: 760a26b52892c6f46abd4117b8a0e2b9
+  - enabled: 1
+    path: Assets/Scene/PraDive/TutorialInfo.unity
+    guid: 1ac6cd62a19a38a489f5c327df09016c
+  - enabled: 1
+    path: Assets/Scene/PraDive/PlugIntoVRBox.unity
+    guid: 83e280d2fd0f7ef4a8bd622df3a13440
+  - enabled: 1
+    path: Assets/Scene/PraDive/TutorialTraining.unity
+    guid: f4be7b609d29a5b409f1a9ba78dfcca6
+  - enabled: 1
+    path: Assets/Scene/PraDive/main.unity
+    guid: c6de66998a4552548a9b04c912ba1cc6
+  - enabled: 1
+    path: Assets/Scene/PraDive/Shop.unity
+    guid: a613577e9802d2a4e9b6d55ca124dec9
+  - enabled: 1
+    path: Assets/Scene/PraDive/info.unity
+    guid: 14da86eb6f1a05b469c20f5f38d95135
+  - enabled: 1
+    path: Assets/Scene/Dive/Gili Ketapang.unity
+    guid: 6ed7621e5a560f34d891fd393091334a
+  - enabled: 1
+    path: Assets/Scene/PraDive/LoadingExit.unity
+    guid: 5b10f4f615b60124eac2b39cbfdbd60d
+  m_configObjects: {}
